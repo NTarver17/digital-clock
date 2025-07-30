@@ -1,39 +1,40 @@
-# 🔥 PROJECT_TITLE
+# 🕒 Digital Clock
 
-> One-sentence project tagline or elevator pitch.
+> A simple, responsive digital clock built with HTML, CSS, and JavaScript.
 
-[![Live Demo](https://img.shields.io/badge/Pages-live-brightgreen.svg)](https://NTarver17.github.io/display-clock/)  
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-View%20Clock-brightgreen.svg)](https://NTarver17.github.io/digital-clock/)  
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 ---
 
 ## 📖 Overview
 
-Short paragraph describing what this project does and why you built it.
+This project displays a live updating clock with hours, minutes, seconds, and AM/PM indicator. It’s built from scratch to demonstrate:
 
----
+- Pure HTML for structure  
+- Modern CSS for styling and centering  
+- Vanilla JavaScript for time logic and DOM updates  
 
-## 🛠 Tech Stack
-
-- **HTML5**  
-- **CSS3** (Variables, Flexbox/Grid, Media Queries)  
-- **JavaScript (ES6+)**  
+Perfect for showcasing fundamental web skills in your portfolio.
 
 ---
 
 ## ✨ Features
 
-- ✔ Feature one  
-- ✔ Feature two  
-- ✔ Feature three  
+- ✔️ Updates every second  
+- ✔️ 12-hour format with AM/PM  
+- ✔️ Zero-padded time (e.g. `07:05:09 PM`)  
+- ✔️ Centered, responsive design  
 
 ---
 
 ## 🔗 Live Demo
 
-👉 https://YOUR-USERNAME.github.io/REPO-NAME/
+👉 https://NTarver17.github.io/digital-clock/  
 
-![Screenshot of PROJECT_TITLE](assets/screenshot.png)
+![Digital Clock Screenshot](assets/screenshot.png)
+
+> *Add an `assets/screenshot.png` of your clock here for a quick visual.*
 
 ---
 
@@ -41,8 +42,14 @@ Short paragraph describing what this project does and why you built it.
 
 ### Prerequisites
 
-- Node.js & npm (optional, for linters)  
-- Any static-server (e.g. `http-server`)
+- No build tools needed—just a browser!  
+- (Optional) A static server (e.g. `http-server`) for local testing.
+
+### Installation
+
+```bash
+git clone https://github.com/NTarver17/digital-clock.git
+cd digital-clock
 
 ### Installation
 
