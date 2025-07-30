@@ -2,7 +2,7 @@
 
 > One-sentence project tagline or elevator pitch.
 
-[![Live Demo](https://img.shields.io/badge/Pages-live-brightgreen.svg)](https://YOUR-USERNAME.github.io/REPO-NAME/)  
+[![Live Demo](https://img.shields.io/badge/Pages-live-brightgreen.svg)](https://NTarver17.github.io/display-clock/)  
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 ---
