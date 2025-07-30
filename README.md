@@ -28,13 +28,11 @@ Perfect for showcasing fundamental web skills in your portfolio.
 
 ---
 
-## 🔗 Live Demo
+## 🔗 Live Dem0
 
 👉 https://NTarver17.github.io/digital-clock/  
 
-![Digital Clock Screenshot](![download](https://github.com/user-attachments/assets/84dbe3ab-a034-4d73-9158-cacea2754daf)
-)
-
+![Digital Clock Screenshot](download.jpg)
 > *Add an `assets/screenshot.png` of your clock here for a quick visual.*
 
 ---
