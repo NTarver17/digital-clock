@@ -32,7 +32,8 @@ Perfect for showcasing fundamental web skills in your portfolio.
 
 👉 https://NTarver17.github.io/digital-clock/  
 
-![Digital Clock Screenshot](https://www.google.com/imgres?q=digital%20clock&imgurl=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FI%2F61nopcyWSXL._UF894%2C1000_QL80_.jpg&imgrefurl=https%3A%2F%2Fwww.amazon.com%2FKWANWA-Digital-Battery-Operated-Constantly%2Fdp%2FB01IAXYPE0&docid=HNwGBuANI2bYsM&tbnid=RR0H8eQToQ0G8M&vet=12ahUKEwjf9Kqlw-WOAxXymSYFHeb2CzEQM3oECBgQAA..i&w=894&h=894&hcb=2&ved=2ahUKEwjf9Kqlw-WOAxXymSYFHeb2CzEQM3oECBgQAA)
+![Digital Clock Screenshot](![download](https://github.com/user-attachments/assets/84dbe3ab-a034-4d73-9158-cacea2754daf)
+)
 
 > *Add an `assets/screenshot.png` of your clock here for a quick visual.*
 
