@@ -15,8 +15,6 @@ This project displays a live updating clock with hours, minutes, seconds, and AM
 - Modern CSS for styling and centering  
 - Vanilla JavaScript for time logic and DOM updates  
 
-Perfect for showcasing fundamental web skills in your portfolio.
-
 ---
 
 ## ✨ Features
